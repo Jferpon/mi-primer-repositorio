@@ -1,2 +1,2 @@
 Este es el fichero 2
-Cambios conflicto
+Cambios conflicto source tree
